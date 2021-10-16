@@ -1,0 +1,16 @@
+{
+  "name": "pancake",
+  "version": "1.0.0",
+  "description": "PancakeSwap Bot",
+  "main": "*",
+  "dependencies": {
+    "node-fetch": "^3.0.0",
+    "web3": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node busd.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
